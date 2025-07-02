@@ -81,7 +81,7 @@ root/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-code-reviewer.git
+git clone https://github.com/NamanGarg11/Code-Reviewer
 cd ai-code-reviewer
 ```
 
